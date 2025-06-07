@@ -9,25 +9,25 @@ const Home = () => {
           <h1 className="text-2xl font-bold md:text-4xl">Ervaring</h1>
           <ul className="space-y-6 border-l pl-6">
             <li className="relative">
-              <span className="absolute left-[-9px] top-1.5 h-3 w-3 rounded-full bg-black dark:bg-white"></span>
+              <span className="absolute left-[-12px] top-1.5 h-3 w-3 rounded-full bg-black dark:bg-white"></span>
               <span className="font-semibold md:text-lg">Bijlesgever Wiskunde</span><br />
               <span className="text-sm text-gray-400">Heist-op-den-Berg – 2017</span><br />
               <span className="text-sm">Begeleiden van studeren, extra oefeningen voorzien, uitleg geven…</span>
             </li>
             <li className="relative">
-              <span className="absolute left-[-9px] top-1.5 h-3 w-3 rounded-full bg-black dark:bg-white"></span>
+              <span className="absolute left-[-15px] top-1.5 h-3 w-3 rounded-full bg-black dark:bg-white"></span>
               <span className="font-semibold md:text-lg">Monitor</span><br />
               <span className="text-sm text-gray-400">Idee Kids, Free Time – 2018–2022</span><br />
               <span className="text-sm">Kampen opstellen/begeleiden, contact met ouders onderhouden…</span>
             </li>
             <li className="relative">
-              <span className="absolute left-[-9px] top-1.5 h-3 w-3 rounded-full bg-black dark:bg-white"></span>
+              <span className="absolute left-[-15px] top-1.5 h-3 w-3 rounded-full bg-black dark:bg-white"></span>
               <span className="font-semibold md:text-lg">Conciërge Invaller</span><br />
               <span className="text-sm text-gray-400">Vlaamse overheid – 2019–2021</span><br />
               <span className="text-sm">Gebouw openen/sluiten, verantwoordelijk voor beveiliging ’s avonds</span>
             </li>
             <li className="relative">
-              <span className="absolute left-[-9px] top-1.5 h-3 w-3 rounded-full bg-black dark:bg-white"></span>
+              <span className="absolute left-[-15px] top-1.5 h-3 w-3 rounded-full bg-black dark:bg-white"></span>
               <span className="font-semibold md:text-lg">Inpakker / Lijnverantwoordelijke</span><br />
               <span className="text-sm text-gray-400">Cosmade – 2022–heden</span><br />
               <span className="text-sm">Inpakken en controleren van cosmetica en voeding</span>
@@ -40,22 +40,22 @@ const Home = () => {
   <h1 className="text-2xl font-bold md:text-4xl">Opleiding</h1>
   <ul className="space-y-6 border-l pl-6">
     <li className="relative">
-      <span className="absolute left-[-9px] top-1.5 h-3 w-3 rounded-full bg-black dark:bg-white"></span>
+      <span className="absolute left-[-15px] top-1.5 h-3 w-3 rounded-full bg-black dark:bg-white"></span>
       <span className="font-semibold md:text-lg">   Techniek-Wetenschappen</span><br />
       <span className="text-sm text-gray-400">  Heilig-Hartcollege Heist-op-den-Berg – 2010–2016</span>
     </li>
     <li className="relative">
-      <span className="absolute left-[-9px] top-1.5 h-3 w-3 rounded-full bg-black dark:bg-white"></span>
+      <span className="absolute left-[-15px] top-1.5 h-3 w-3 rounded-full bg-black dark:bg-white"></span>
       <span className="font-semibold md:text-lg">   Leerkracht Secundair Onderwijs</span><br />
       <span className="text-sm text-gray-400">  Aardrijkskunde/Biologie – 2016–2019 (niet afgerond)</span>
     </li>
     <li className="relative">
-      <span className="absolute left-[-9px] top-1.5 h-3 w-3 rounded-full bg-black dark:bg-white"></span>
+      <span className="absolute left-[-15px] top-1.5 h-3 w-3 rounded-full bg-black dark:bg-white"></span>
       <span className="font-semibold md:text-lg">   Bachelor Orthopedagogie</span><br />
       <span className="text-sm text-gray-400">  2019–2021 (niet afgerond)</span>
     </li>
     <li className="relative">
-      <span className="absolute left-[-9px] top-1.5 h-3 w-3 rounded-full bg-black dark:bg-white"></span>
+      <span className="absolute left-[-15px] top-1.5 h-3 w-3 rounded-full bg-black dark:bg-white"></span>
       <span className="font-semibold md:text-lg">   Graduaat Programmeren</span><br />
       <span className="text-sm text-gray-400">2021–heden</span>
     </li>

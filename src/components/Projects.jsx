@@ -1,25 +1,32 @@
 const Projects = () => {
   const projecten = [
     {
-      title: "Project ",
+      title: "Project Ziekenfonds",
       image: "/images/Schermafbeelding 2025-06-01 171744.png",
       description: "MVC toepassen in een groepswerk.",
-      learning: "Ik leerde werken met componenten, dark mode via Tailwind en het structureren van een responsive layout.",
+      learning: "Een groepswerk dat veel inzicht gaf over identity toe te passen en een connectie maken met azure database.",
       quote: "“Design is intelligence made visible.” – Alina Wheeler",
     },
     {
       title: "Startspeler",
       image: "/images/Schermafbeelding 2024-04-27 202236.png",
-      description: "Een eenvoudige takenlijst app met React.",
-      learning: "Hier oefende ik met useState en props. Ik leerde hoe state het gedrag van een component bepaalt.",
+      description: "Eerste groepsproject.",
+      learning: "Voor de eerste keer bij een webapplicatie van nul beginnen en zelf de structuur op zetten.",
       quote: "“Great things are not done by impulse, but by a series of small things brought together.” – Vincent van Gogh",
     },
     {
-      title: "Webshop Mockup",
-      image: "/images/webshop.png",
-      description: "Een statische webshop gebouwd met HTML & CSS.",
-      learning: "Ik kreeg inzicht in hoe e-commerce pagina’s opgebouwd worden en oefende met flexbox en grid.",
+      title: "Werklplek leren Imelda",
+      image: "/images/IMELDA_DEN_OLM.jpg",
+      description: "Webapplicaties vernieuwen",
+      learning: "Ik leerde te veel om op te noemen, maar misschien meest waardevolle is een volwaardige opdracht als programmeur.",
       quote: "“Learning never exhausts the mind.” – Leonardo da Vinci",
+    },
+     {
+      title: "Portfolio",
+      image: "",
+      description: "Samenvatting .",
+      learning: "Een react website deployen met behulp van netlify",
+      quote: "“What the world of tomorrow will be like is greatly dependent on the power of imagination in those who are learning to read today.” – Astrid Lindgren",
     },
   ];
 
