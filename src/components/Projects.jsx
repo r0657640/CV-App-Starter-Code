@@ -16,7 +16,7 @@ const Projects = () => {
     },
     {
       title: "Werklplek leren Imelda",
-      image: "/images/IMELDA_DEN_OLM.jpg",
+      image: "/images/IMELDA-DEN_OLM.jpg",
       description: "Webapplicaties vernieuwen",
       learning: "Ik leerde te veel om op te noemen, maar misschien meest waardevolle is een volwaardige opdracht als programmeur.",
       quote: "“Learning never exhausts the mind.” – Leonardo da Vinci",
@@ -24,9 +24,16 @@ const Projects = () => {
      {
       title: "Portfolio",
       image: "",
-      description: "Samenvatting .",
-      learning: "Een react website deployen met behulp van netlify",
+      description: "Samenvatting van alles.",
+      learning: "Een react website deployen met behulp van netlify.",
       quote: "“What the world of tomorrow will be like is greatly dependent on the power of imagination in those who are learning to read today.” – Astrid Lindgren",
+    },
+       {
+      title: "project back-end framework",
+      image: "/images/Dashboard.png",
+      description: "Samenvatting .",
+      learning: "Een database opzetten met docker en prisma. Een typescript programma om de relaties te tonen.",
+      quote: "“Have you tried turning it off and on again?” – IT Crowd",
     },
   ];
 
