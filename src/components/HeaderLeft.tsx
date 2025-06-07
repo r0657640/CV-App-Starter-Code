@@ -16,7 +16,7 @@ const HeaderLeft = ({ darkMode, toggleDarkMode }) => {
           </div>
           <div className="text-center space-y-1">
             <h1 className="text-4xl font-light">
-              Dorien <span className='font-semibold'>Van Loo</span>
+              Dorien <span>Van Loo</span>
             </h1>
             <h3 className='text-xl font-light'>Student</h3>
           </div>
