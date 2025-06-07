@@ -114,8 +114,16 @@ const Home = () => {
             <li>WordPress</li>
           </ul>
         </section>
+<a href="/cv.pdf" download="Mijn_CV.pdf">
+  <button className="px-4 py-2 bg-black text-white border border-white rounded hover:bg-white hover:text-black dark:bg-white dark:text-black dark:border dark:border-black dark:hover:bg-black dark:hover:text-white transition-colors duration-300">
+    Download mijn cv
+  </button>
+</a>
+
+
       </main>
     </div>
+  
   );
 };
 
